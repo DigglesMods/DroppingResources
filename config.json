@@ -1,10 +1,10 @@
 {
-	"version" : "1.0",
+	"version" : "1.1",
 	"author" : "cech12 (idea: iGilga)",
 	
 	"name" :  {
-		"en" : "DroppingResources",
-		"de" : "DroppingResources"
+		"en" : "Dropping Resources",
+		"de" : "Ressourcen-Dropping"
 	},
 	"description" : {
 		"en" : "Change dropping chance and drop better resources in dependence to your civilization level while digging.",
@@ -23,7 +23,7 @@
 			"default" : true,
 			"name" :  {
 				"en" : "Civilisation drops",
-				"de" : "Items pro Slot"
+				"de" : "Zivilisations-Drop"
 			},
 			"description" : {
 				"en" : "Drop better items with a better civilization level while digging.",
